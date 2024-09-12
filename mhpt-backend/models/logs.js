@@ -20,7 +20,7 @@ const logsSchema = mongoose.Schema({
     sleepPatterns: {
         type: Number,
         default: 0,
-        max: 5,
+        max: 10,
         min: 0
     },
     physicalActivity: {
