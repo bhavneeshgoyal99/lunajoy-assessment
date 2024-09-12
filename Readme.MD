@@ -1,4 +1,4 @@
-# Project Name
+# Mental Health Progress Tracker
 
 ## Overview
 
